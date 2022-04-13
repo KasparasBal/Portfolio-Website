@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Doggy Hotel",
+    "description": "A cheerful broshure site mockup for a dog hotel",
+    "image": "Project_Images/DogHotel.png"
+  },
+  {
+    "name": "MovieList",
+    "description": "A simple movie browsing site made with 'TMDB' API + search function",
+    "image": "Project_Images/MovieList.png"
+  }
+]

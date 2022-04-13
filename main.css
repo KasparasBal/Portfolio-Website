@@ -181,3 +181,52 @@ main {
 .icon-gap {
   margin-left: 0.5rem;
 }
+
+/*Projects*/
+
+.all-projects-container {
+  margin-top: 40rem;
+}
+.project-title {
+  color: #ff4757;
+  margin-left: 10rem;
+  margin-right: 5rem;
+
+  font-size: 1.8rem;
+  letter-spacing: 1rem;
+  border-bottom: solid 3px #ff4757b4;
+}
+
+.projects {
+  margin: -0.2rem 5rem;
+  padding: 5rem;
+  border: 2px solid #ff4757;
+  border-top: none;
+}
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2rem;
+  height: 50vh;
+}
+.all-projects {
+  max-width: 50rem;
+  padding: 2rem;
+}
+.project-name {
+  color: #ff4757;
+  font-size: 4rem;
+  padding: 2rem 0;
+}
+.description {
+  color: #ff4757;
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+.project-image-container {
+}
+.project-image {
+  max-height: 25rem;
+}
